@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TesseraBI/tessera-docs/actions/workflows/docs-ci.yml">
-    <img src="https://github.com/TesseraBI/tessera-docs/actions/workflows/docs-ci.yml/badge.svg" alt="Docs CI">
+  <a href="https://github.com/Tessera-BI/tessera-docs/actions/workflows/docs-ci.yml">
+    <img src="https://github.com/Tessera-BI/tessera-docs/actions/workflows/docs-ci.yml/badge.svg" alt="Docs CI">
   </a>
   <img src="https://img.shields.io/badge/SuiteScript-2.1-red" alt="SuiteScript 2.1">
   <img src="https://img.shields.io/badge/Deployment-SDF-red" alt="SDF">
