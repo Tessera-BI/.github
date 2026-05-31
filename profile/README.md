@@ -62,7 +62,7 @@ Tessera uses only APIs published by Oracle for SuiteCloud partners. No restricte
 
 | Repository | Description | Access |
 |-----------|-------------|--------|
-| [tessera-docs](https://github.com/TesseraBI/tessera-docs) | Architecture, security model, SuiteCloud compliance, data layer reference, integrator guide | Public |
+| [tessera-docs](https://github.com/Tessera-BI/tessera-docs) | Architecture, security model, SuiteCloud compliance, data layer reference, integrator guide | Public |
 | tessera-core | Product source | Private — SDN review on request |
 
 ## Get in touch
