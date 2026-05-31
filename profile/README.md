@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/tessera-banner.png" alt="Tessera BI" width="800">
+     <img src="https://raw.githubusercontent.com/Tessera-BI/tessera-docs/main/images/tessera-banner.png" alt="Tessera BI" width="800">
 </p>
 
 <h2 align="center">Tessera BI</h2>
