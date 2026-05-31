@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Tessera-BI/tessera-docs/main/images/tessera-banner.png" alt="Tessera BI">
 </p>
 
