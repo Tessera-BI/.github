@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/283492243" alt="Tessera BI" width="100">
+  <img src="images/tessera-banner.png" alt="Tessera BI" width="800">
 </p>
 
 <h2 align="center">Tessera BI</h2>
