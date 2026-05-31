@@ -1,6 +1,4 @@
-<p>
-  <img src="https://raw.githubusercontent.com/Tessera-BI/tessera-docs/main/images/tessera-banner.png" alt="Tessera BI">
-</p>
+<img src="https://raw.githubusercontent.com/Tessera-BI/tessera-docs/main/images/tessera-banner.png" alt="Tessera BI">
 
 <p align="center">
   <strong>Native business intelligence, built inside NetSuite.</strong><br>
